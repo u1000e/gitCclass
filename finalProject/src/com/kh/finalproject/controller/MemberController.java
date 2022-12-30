@@ -10,8 +10,8 @@ public class MemberController {
 		this.haha = haha;
 	}
 	
-	public int hihi() {
-		return 1;
+	public int hihi(int age) {
+		return age;
 	}
 
 }
