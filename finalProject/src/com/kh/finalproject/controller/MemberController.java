@@ -6,6 +6,8 @@ public class MemberController {
 	
 	public void setHaha(String haha) {
 		this.haha = haha;
+		this.haha = haha;
+		this.haha = haha;
 	}
 
 }
