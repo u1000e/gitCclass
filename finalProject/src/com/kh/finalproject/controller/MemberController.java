@@ -9,5 +9,9 @@ public class MemberController {
 		this.haha = haha;
 		this.haha = haha;
 	}
+	
+	public int hihi() {
+		return 1;
+	}
 
 }
