@@ -13,9 +13,5 @@ public class MemberController {
 	public int hihi(int age) {
 		return age;
 	}
-	
-	public void bye() {
-		
-	}
 
 }
