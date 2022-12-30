@@ -18,4 +18,9 @@ public class MemberController {
 		
 	}
 
+	public void hi() {
+		  
+	}
+	
+	
 }
